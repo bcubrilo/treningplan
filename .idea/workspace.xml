@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/resources/assets/js/views/Plan.vue" line="62" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24d32ce4-ef69-4db2-9007-b1a06fc3cd8d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/assets/js/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Model/TreningPlan.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/assets/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/KorisnikController.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="69" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2017_10_28_220529_create_user_trening_plan.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/assets/js/views/Home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="25" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>admin</find>
+      <find>\App\Http\Middleware\Admin</find>
+      <find>logo</find>
+      <find>.features-section</find>
+      <find>.logo</find>
+      <find>footer</find>
+      <find>ipad-screen</find>
+      <find>Podaci o treningu</find>
+      <find>v-for</find>
+      <find>{{</find>
+      <find>dashboard/plan-tip/view</find>
+      <find>odabraniTrening</find>
+      <find>/logout</find>
+      <find>izlog</find>
+      <find>logout</find>
+      <find>csrf-t</find>
+      <find>welcome</find>
+      <find>authenticated</find>
+      <find>console</find>
+      <find>window.axios.defaults.headers.common</find>
+      <find>window.Laravel.csrfToken</find>
+      <find>domenurl</find>
+      <find>se</find>
+      <find>domain</find>
+      <find>SESSION_SECURE_COOKIE</find>
+      <find>zavrsi</find>
+      <find>filter</find>
+      <find>duzinaRules</find>
+      <find>kreiraj</find>
+      <find>first</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>v-card-actions</replace>
+      <replace>posaljiObavjestenje</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\Projekti\treningplan\node_modules\vuetify\src\components</dir>
+      <dir>F:\Projekti\treningplan\node_modules\vuetify</dir>
+      <dir>F:\Projekti\treningplan\node_modules</dir>
+      <dir>F:\Projekti\treningplan\resources\assets\js\views</dir>
+      <dir>F:\Projekti\treningplan\resources\assets\js</dir>
+      <dir>F:\Projekti\treningplan\app\Http</dir>
+      <dir>F:\Projekti\treningplan</dir>
+      <dir>F:\Projekti\treningplan\resources\assets\js\components\scheduleCalendar</dir>
+      <dir>F:\Projekti\treningplan\app</dir>
+      <dir>F:\Projekti\treningplan\resources</dir>
+      <dir>E:\Projekti\treningplan</dir>
+      <dir>E:\Projekti\treningplan\resources</dir>
+      <dir>E:\Projekti\treningplan\resources\assets\js\views</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Dashboard/TreningPlanController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/dashboard/views/TreningPlanTreningView.vue" />
+        <option value="&lt;a76e2c99-dd67-45e1-8313-b110d7ed7323&gt;/treningplan.trcizdravo.com/js/dashboard/app.js" />
+        <option value="&lt;a76e2c99-dd67-45e1-8313-b110d7ed7323&gt;/treningplan.trcizdravo.com/js/app.js" />
+        <option value="&lt;a76e2c99-dd67-45e1-8313-b110d7ed7323&gt;/treningplan.trcizdravo.com/public/js/app.js" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/treningplan.trcizdravo.com/public/index.php" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/treningplan.trcizdravo.com/index.php" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/trening_plan_application/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/KorisnikController.php" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/trening_plan_application/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
+        <option value="$PROJECT_DIR$/routes/api.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/NoHttpCache.php" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/containers/Full.vue" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/treningplan.trcizdravo.com/js/app.js" />
+        <option value="$PROJECT_DIR$/config/session.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/bootstrap.js" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/trening_plan_application/routes/web.php" />
+        <option value="$PROJECT_DIR$/trening/config/session.php" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/trening_plan_application/config/cache.php" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/trening_plan_application/.env" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/trening_plan_application/config/session.php" />
+        <option value="$PROJECT_DIR$/app/Exceptions/Handler.php" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/treningplan.trcizdravo.com/.htaccess" />
+        <option value="&lt;77e441dc-070a-46eb-a0f0-aa367b651082&gt;/trening_plan_application/.htaccess" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="&lt;2fd2c84d-5a96-496f-b751-257f10e5f1a7&gt;/config/database.php" />
+        <option value="&lt;4b01374e-db2d-408b-99f5-c2d5871026f2&gt;/trening_plan_application/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="&lt;4b01374e-db2d-408b-99f5-c2d5871026f2&gt;/trening_plan_application/.env" />
+        <option value="$PROJECT_DIR$/app/Console/Commands/TreningObavijesti.php" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/dashboard.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/dashboard/routes.js" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Dashboard/KorisniciController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/dashboard/containers/Full.vue" />
+        <option value="$PROJECT_DIR$/resources/assets/js/app.js" />
+        <option value="$PROJECT_DIR$/resources/assets/js/dashboard/views/Korisnici.vue" />
+        <option value="$PROJECT_DIR$/resources/assets/js/routes.js" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/js/views/Plan.vue" />
+        <option value="$PROJECT_DIR$/resources/assets/js/views/KorisnikPlanTrening.vue" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/KorisnikTreningPlanController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/defuse/php-encryption" />
+      <path value="$PROJECT_DIR$/vendor/barryvdh/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/league/event" />
+      <path value="$PROJECT_DIR$/vendor/league/oauth2-server" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/laravel/passport" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1378" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="treningplan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="treningplan" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Vue" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="F:\Projekti\treningplan\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projekti\treningplan\sertifikati" />
+      <recent name="F:\Projekti\treningplan\public\images" />
+      <recent name="F:\Projekti\treningplan\public\js" />
+      <recent name="F:\Projekti\treningplan\public\css" />
+      <recent name="F:\Projekti\treningplan\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Projekti\treningplan\app\Console" />
+      <recent name="F:\Projekti\treningplan\app" />
+      <recent name="F:\Projekti\treningplan\app\Mail" />
+      <recent name="F:\Projekti\treningplan\resources\assets\js\views" />
+      <recent name="F:\Projekti\treningplan\resources\assets\js\dashboard" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24d32ce4-ef69-4db2-9007-b1a06fc3cd8d" name="Default" comment="" />
+      <created>1509222518135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509222518135</updated>
+      <workItem from="1509222519550" duration="4139000" />
+      <workItem from="1509267273517" duration="28195000" />
+      <workItem from="1509366796862" duration="231000" />
+      <workItem from="1509385015009" duration="14109000" />
+      <workItem from="1509457334966" duration="8794000" />
+      <workItem from="1509565738573" duration="10848000" />
+      <workItem from="1509649059405" duration="10291000" />
+      <workItem from="1509718274576" duration="18868000" />
+      <workItem from="1509791257674" duration="27209000" />
+      <workItem from="1509885288551" duration="5003000" />
+      <workItem from="1509895531295" duration="22974000" />
+      <workItem from="1509968744957" duration="35909000" />
+      <workItem from="1510053462569" duration="30270000" />
+      <workItem from="1510159344429" duration="24970000" />
+      <workItem from="1510238534428" duration="19910000" />
+      <workItem from="1510327390157" duration="20497000" />
+      <workItem from="1510390307622" duration="6670000" />
+      <workItem from="1510408683739" duration="3060000" />
+      <workItem from="1510425028237" duration="19891000" />
+      <workItem from="1510500947494" duration="306000" />
+      <workItem from="1510503070153" duration="20316000" />
+      <workItem from="1510604040398" duration="5399000" />
+      <workItem from="1510690496357" duration="9907000" />
+      <workItem from="1510778160794" duration="2334000" />
+      <workItem from="1510865704356" duration="3084000" />
+      <workItem from="1510949715451" duration="15560000" />
+      <workItem from="1511012244520" duration="26687000" />
+      <workItem from="1511098020042" duration="23609000" />
+      <workItem from="1511203886586" duration="9830000" />
+      <workItem from="1511218456013" duration="5446000" />
+      <workItem from="1511282527622" duration="9363000" />
+      <workItem from="1511476109537" duration="993000" />
+      <workItem from="1511722235314" duration="1194000" />
+      <workItem from="1512234245306" duration="4627000" />
+      <workItem from="1512244190858" duration="15000" />
+      <workItem from="1512251546031" duration="616000" />
+      <workItem from="1512255108581" duration="612000" />
+      <workItem from="1512290268357" duration="730000" />
+      <workItem from="1512310503814" duration="634000" />
+      <workItem from="1512313733943" duration="1679000" />
+      <workItem from="1512418288391" duration="2051000" />
+      <workItem from="1512423832233" duration="519000" />
+      <workItem from="1512424402637" duration="425000" />
+      <workItem from="1513287241293" duration="3753000" />
+      <workItem from="1513976097904" duration="8807000" />
+      <workItem from="1514105106636" duration="3942000" />
+      <workItem from="1514146783019" duration="8620000" />
+      <workItem from="1514325125819" duration="7000" />
+      <workItem from="1514890165278" duration="5404000" />
+      <workItem from="1515510114739" duration="1157000" />
+      <workItem from="1515620100097" duration="2436000" />
+      <workItem from="1515962215129" duration="1571000" />
+      <workItem from="1516476441907" duration="10931000" />
+      <workItem from="1516530220222" duration="1517000" />
+      <workItem from="1516568973494" duration="368000" />
+      <workItem from="1516569840015" duration="4745000" />
+      <workItem from="1516654544477" duration="5024000" />
+      <workItem from="1516660502953" duration="1443000" />
+      <workItem from="1516661974557" duration="335000" />
+      <workItem from="1516823906222" duration="54000" />
+      <workItem from="1516828403866" duration="479000" />
+      <workItem from="1520195581188" duration="3305000" />
+      <workItem from="1521319140730" duration="2591000" />
+      <workItem from="1521322187810" duration="269000" />
+      <workItem from="1521324198699" duration="26000" />
+      <workItem from="1521580444979" duration="6939000" />
+      <workItem from="1521662256555" duration="2950000" />
+      <workItem from="1521972758732" duration="4582000" />
+      <workItem from="1521992520577" duration="38000" />
+      <workItem from="1522163439508" duration="2175000" />
+      <workItem from="1522270859307" duration="11128000" />
+      <workItem from="1522444647477" duration="3190000" />
+      <workItem from="1522494944564" duration="3207000" />
+      <workItem from="1522514251329" duration="635000" />
+      <workItem from="1522525712070" duration="1857000" />
+      <workItem from="1522613870566" duration="4296000" />
+      <workItem from="1522751326623" duration="17090000" />
+      <workItem from="1523481672456" duration="132000" />
+      <workItem from="1523800394100" duration="1458000" />
+      <workItem from="1524689667503" duration="928000" />
+      <workItem from="1524863990998" duration="277000" />
+      <workItem from="1524864284544" duration="20000" />
+      <workItem from="1524864316191" duration="1733000" />
+      <workItem from="1524866660842" duration="869000" />
+      <workItem from="1539379593113" duration="17774000" />
+      <workItem from="1539548295791" duration="12563000" />
+      <workItem from="1539716770209" duration="1253000" />
+      <workItem from="1540322767059" duration="1067000" />
+      <workItem from="1541194824073" duration="752000" />
+      <workItem from="1541275445381" duration="4299000" />
+      <workItem from="1542487187267" duration="1204000" />
+      <workItem from="1543177981306" duration="85000" />
+      <workItem from="1545170247165" duration="706000" />
+      <workItem from="1551552392749" duration="7084000" />
+      <workItem from="1552171424308" duration="554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="635403000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.3524962" side_tool="true" weight="0.18657938" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Floobits" order="4" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6475038" visible="true" weight="0.31260228" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32843137" />
+      <window_info anchor="bottom" id="File Transfer" order="10" sideWeight="0.49621785" weight="0.027823241" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Find" order="13" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Remote Host" order="0" weight="0.10136157" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/trening/.env" />
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/.env" />
+    <entry file="file://$PROJECT_DIR$/public/js/dashboard/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/components/TreningPlanLista..vue" />
+    <entry file="file://$PROJECT_DIR$/trening/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php" />
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/views/TreningPlanTipView.vue" />
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Dashboard/PlanTipController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Dashboard/KorisniciController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/views/TreningPlanTreningView.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/views/TreningPlanView.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/containers/Full.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Dashboard/TreningPlanController.php" />
+    <entry file="file://$PROJECT_DIR$/trening_plan_application (1)/trening_plan_application/app/Model/UserTreningPlan.php" />
+    <entry file="file://$PROJECT_DIR$/app/Model/TreningPlanTrening.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/UserTreningPlan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/views/TreningPlanDetalji.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/components/TreningPlanPregledTreninga.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/app.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/dashboard/views/Korisnici.vue" />
+    <entry file="file://$PROJECT_DIR$/resources/views/dashboard.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/production-app/app/Model/UserTreningPlan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/views/KorisnikPlan.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="18" column="72" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/views/KorisnikPlanTrening.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2888">
+          <caret line="152" column="23" selection-start-line="152" selection-start-column="23" selection-end-line="152" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#v-list#0;n#v-flex#1;n#v-layout#0;n#template#3;n#v-card#0;n#v-flex#0;n#v-layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-flex#1;n#v-layout#0;n#template#4;n#v-card#0;n#v-flex#0;n#v-layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#v-flex#1;n#v-layout#0;n#v-card#0;n#v-flex#0;n#v-layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Cors.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="6" selection-start-column="8" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="2" selection-start-line="54" selection-start-column="2" selection-end-line="54" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/App.vue" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/views/Plan.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="198" column="36" selection-start-line="198" selection-start-column="12" selection-end-line="198" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/UserTreningPlanTrening.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/KorisnikTreningPlanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="107" column="88" selection-start-line="107" selection-start-column="83" selection-end-line="107" selection-end-column="88" />
+          <folding>
+            <element signature="e#4895#5130#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/views/ZapocniPlan.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="82" column="25" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="18" column="6" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/TreningPlan.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/KorisnikController.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_10_28_220529_create_user_trening_plan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="69" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/assets/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
